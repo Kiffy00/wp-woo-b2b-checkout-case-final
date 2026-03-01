@@ -29,7 +29,7 @@ A local WordPress + WooCommerce demo built as a junior web developer case projec
 * `wp/` — WordPress runtime files
 * `theme/b2b-child-theme/` — child theme
 * `plugin/b2b-checkout-tools/` — custom WooCommerce plugin
-* `docs/` — scope and support notes
+* `docs/` — screenshots and any further documentation
 
 ## Local setup
 
