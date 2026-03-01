@@ -1,0 +1,15 @@
+﻿# Secrets
+.env
+
+# WordPress runtime files
+wp/*
+!wp/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
