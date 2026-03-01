@@ -66,7 +66,7 @@ A local WordPress + WooCommerce demo built as a junior web developer case projec
 
 ### Checkout
 
-![Checkout](docs/screenshots/checkout-orgnr.png)
+![Checkout](docs/screenshots/checkout.png)
 
 ### Admin order view
 
